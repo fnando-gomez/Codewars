@@ -1,4 +1,9 @@
-/*Write a function that receives a string and return true if the pharentesis are
+/*
+31/03/2020
+
+Expandit code exercise during a technical interview. 
+
+Write a function that receives a string and return true if the pharentesis are
 balanced, in case parentheses are not balanced it should return the index that breaks the balance.
 
 Consider the following correctly balanced string of parentheses: 
