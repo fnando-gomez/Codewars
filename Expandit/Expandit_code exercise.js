@@ -19,22 +19,18 @@ function myFunction(input_string) {
     let count2 = 0
 
     for (let i = 0; i < newString.length; i++) {
-        if (newString[i] === "(") {
-            count1++
-        } else if (newString[i] === ")") {
-            count2++
-        }//if
+
+        (newString[i] === "(") ? count1++ : count2++;
+
     }//for
 
     let substIndex = (count1 == count2)
     let index = newString.length - (Math.abs(count1 - count2))
 
-    if (substIndex) {
-        console.log(`The parentheses are balanced, with ${count2} pair(s) of parentheses`)
-        return true
-    } else {
-        console.log("The parentheses break at index= " + index)
-    }//if
+        return (substIndex ? 
+                (true, console.log(`The parentheses are balanced, with ${count2} pair(s) of parentheses`)): 
+                console.log("The parentheses break at index= " + index))
+
 }
 myFunction("((()))))")
 myFunction("(())()")
