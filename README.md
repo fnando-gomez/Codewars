@@ -8,3 +8,5 @@ balanced, in case parentheses are not balanced it should return the index that b
 **2 Number of Decimal Digits** | Codewars | Determine the total number of digits in the integer (n>=0) given as input to the function.
 
 **3 Move zeros to end** | Codewars | Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+
+**4 Array to sum** | Technical interview | Create a function that can add up every element in the array that can be parsed to a number.
