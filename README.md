@@ -16,3 +16,15 @@ balanced, in case parentheses are not balanced it should return the index that b
     - Fizz if it's a multiple of 3,
     - Buzz if it's a multiple of 5, and
     - if multiple of both write FizzBuzz.
+
+**6 Breaking Chocolate problem** | Codewars & Technical interview | Your task is to split the chocolate bar of given dimension n x m into small squares. Each square is of size 1x1 and unbreakable. Implement a function that will return minimum number of breaks needed.
+
+**7 Mumbling** | Codewars & Technical interview | This time no story, no theory. The examples below show you how to write function accum:
+
+Examples:
+
+accum("abcd") -> "A-Bb-Ccc-Dddd"
+accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+accum("cwAt") -> "C-Ww-Aaa-Tttt"
+
+The parameter of accum is a string which includes only letters from a..z and A..Z.
