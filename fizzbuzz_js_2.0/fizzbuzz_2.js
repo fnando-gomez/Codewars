@@ -6,11 +6,12 @@ Show a list that counts from 1 to 50 and based on the number of item print:
 - Buzz if it's a multiple of 5, and
 - if multiple of both write FizzBuzz.
 
-also:
+also*:
 - You can use only one "if"
 - You can't use "else", "else if", "case" or a terniary operator
 
-Note: This was asking during a technical interview to be implemented in React from scratch, did the JS version just for fun and before try in React. 
+Note: This was asking during a technical interview to be implemented in React from scratch, did the JS version just for fun and before try in React.
+Note2: The new *conditions were shared in a coding-group as a new approach to the problem.
 
 */ 
 
