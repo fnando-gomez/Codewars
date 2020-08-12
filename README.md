@@ -17,6 +17,10 @@ balanced, in case parentheses are not balanced it should return the index that b
     - Buzz if it's a multiple of 5, and
     - if multiple of both write FizzBuzz.
 
+**5.1 FizzBuzz** | Technical interview (the new conditions were shared in a coding-group as a new approach to the problem) | Same exercise, but with the next conditions:
+    - You can use only one "if"
+    - You can't use "else", "else if", "case" or a terniary operator
+
 **6 Breaking Chocolate problem** | Codewars & Technical interview | Your task is to split the chocolate bar of given dimension n x m into small squares. Each square is of size 1x1 and unbreakable. Implement a function that will return minimum number of breaks needed.
 
 **7 Mumbling** | Codewars & Technical interview | This time no story, no theory. The examples below show you how to write function accum:

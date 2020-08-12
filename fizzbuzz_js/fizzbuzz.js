@@ -27,4 +27,4 @@ function fizzbuzz(topNumber) {
     }//for
 }//fizzbuzz
 
-fizzbuzz(50000)
+fizzbuzz(50)
