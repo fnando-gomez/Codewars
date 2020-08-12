@@ -25,5 +25,5 @@ function accum(s){
     return newStr
 }//accum
 
-accum("Ekaterina")
+// accum("Ekaterina")
 
