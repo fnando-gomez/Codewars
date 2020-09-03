@@ -32,6 +32,6 @@ balanced, in case parentheses are not balanced it should return the index that b
 
 The parameter of accum is a string which includes only letters from a..z and A..Z.
 
-**8 Fibonacci** | From "The Coding Interview" [https://www.thecodinginterview.com/] | Coding interview question from Netflix. This question is often asked by Netflix in junior & intermediate coding interviews. Write a function *fib()* that takes an integer *n* and returns the *nth* Fibonacci number.
+**8 Fibonacci** | From [The Coding Interview](https://www.thecodinginterview.com) | Coding interview question from Netflix. This question is often asked by Netflix in junior & intermediate coding interviews: Write a function *fib()* that takes an integer *n* and returns the *nth* Fibonacci number.
 
 Note: The Fibonacci series is a numerical series where each item is the sum of the two previous items. It starts off like this: *0,1,1,2,3,5,8,13,21...*
