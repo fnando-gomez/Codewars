@@ -39,3 +39,5 @@ Write a function *fib()* that takes an integer *n* and returns the *nth* Fibonac
 Note: The Fibonacci series is a numerical series where each item is the sum of the two previous items. It starts off like this: *0,1,1,2,3,5,8,13,21...*
 
 **9 Sum of multiples 3 & 5** | [Euler project](https://projecteuler.net/) - Problem 1 | Find the sum of all the multiples of 3 or 5 below 1000.
+
+**10 Even Fibonacci numbers** | [Euler project](https://projecteuler.net/) - Problem 2 | By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
