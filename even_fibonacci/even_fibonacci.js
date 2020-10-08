@@ -19,15 +19,15 @@ function sumEvenFibonacci(maxNumber) {
 
         fibArray.push(numberOne + numberTwo);
 
-    }
+    }//for
 
     for (let j = 0; fibArray[j] < maxNumber; j++) {
         if (fibArray[j] % 2 == 0) {
             numAcum = numAcum + fibArray[j];
         }
-    }
-    console.log(numAcum);
+    }//for
+    console.log(numAcum);//Only for visualization
     return numAcum;
-}
+}//sumeEvenFibonacci
 
 sumEvenFibonacci(4000000)

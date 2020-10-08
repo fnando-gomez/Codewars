@@ -16,9 +16,9 @@ function findSumMultiples(maxNumber) {
         if (i % multipleNumber1 == 0 || i % multipleNumber2 == 0) {
             sumAcumulate = sumAcumulate + i;
         }
-    }
-    console.log(sumAcumulate)
+    }//for
+    console.log(sumAcumulate)//Only for viusalization
 
-}
+}//findSumMultiples
 
 findSumMultiples(1000)
