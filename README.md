@@ -1,6 +1,6 @@
 # Codewars && Euler project && Technical exercises interviews
 
-## A place to upload some exercises from the Codewars platform, Euler project, and also some coding exercises and questions from technical interviews during a job-hunting season
+## A place to upload some exercises from the Codewars platform, Euler project, coding exercises, and questions from technical interviews during the job-hunting season. 
 
 **1 Expandit** | Technical interview |  Write a function that receives a string and return true if the pharentesis are
 balanced, in case parentheses are not balanced it should return the index that breaks the balance.
