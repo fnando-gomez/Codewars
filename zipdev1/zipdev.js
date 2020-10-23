@@ -1,3 +1,4 @@
+
 /*
 22/10/2020
 Note: Don't be too hard, I coded this against the clock and in a different web platform as a part of a technical interview. I'll give the task of optimize this code to my future Me.
